@@ -1,0 +1,1 @@
+Simple LSTM trained on Shakephere's Hamlet.
